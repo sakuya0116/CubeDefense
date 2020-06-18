@@ -1,0 +1,144 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   26.20.100.7637
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Complete\Cube Defense\Cube Defense_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Complete\Cube Defense\Cube Defense_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Complete\Cube Defense\Cube Defense_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Complete\Cube Defense\Cube Defense_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Complete\Cube Defense\Cube Defense_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Complete\Cube Defense\Cube Defense_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Complete\Cube Defense\Cube Defense_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Complete\Cube Defense\Cube Defense_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Complete\Cube Defense\Cube Defense_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\Complete\Cube Defense\Cube Defense_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\Complete\Cube Defense\Cube Defense_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Complete\Cube Defense\Cube Defense_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.190 seconds
+Platform assembly: E:\Complete\Cube Defense\Cube Defense_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Complete\Cube Defense\Cube Defense_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 27.837601 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 359c -> priority: 1 
+  Thread -> id: 3f08 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.938200 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3058.
+Total: 0.766100 ms (FindLiveObjects: 0.141800 ms CreateObjectMapping: 0.042500 ms MarkObjects: 0.534400 ms  DeleteObjects: 0.046300 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'HitExplosion') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.518100 ms
+
+Unloading 432 unused Assets to reduce memory usage. Loaded Objects now: 659.
+Total: 2.402600 ms (FindLiveObjects: 0.416300 ms CreateObjectMapping: 0.185400 ms MarkObjects: 0.838200 ms  DeleteObjects: 0.957900 ms)
+
